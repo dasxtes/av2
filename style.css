@@ -34,3 +34,20 @@ body {
         border: 0px;
         margin-left: 50px;
     }
+    .lista{
+        display: flex;
+        margin-top: 70px;
+        margin-left: 300px;
+        
+    }
+
+.itemlista{
+    list-style: none;
+    text-transform: uppercase;
+    color:#726b0b;
+    font-size: 25px;
+    padding-left: 100px;
+
+
+
+}
